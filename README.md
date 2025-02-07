@@ -4,6 +4,6 @@
 
 Содержание:
 
-- [Второй файл (README.md)](README.md) https://github.com/ReeNorr/Catventures/blob/main/README.md
-- [Первый файл (Basic_information)](Basic_information) https://github.com/ReeNorr/Catventures/blob/main/Basic_information.md
-- [Третий файл (user_scenarios)](user_scenarios)
+- [Первый файл (README.md)]
+- [Второй файл (Basic_information)]
+- [Третий файл (user_scenarios)]
