@@ -3,10 +3,11 @@
 ### Группа: 10С1
 <details>
   <summary>Контакты:</summary>
-Vk: @norr_pekar
-Tg: @timidus_agnus
-Яндекс почта: lizzaboyko@yandex.ru
-Гугл почта: izrafel72@gmail.com
+  
+- Vk: @norr_pekar
+- Tg: @timidus_agnus
+- Яндекс почта: lizzaboyko@yandex.ru
+- Гугл почта: izrafel72@gmail.com
 </details>
 
 <details>
@@ -60,16 +61,16 @@ Tg: @timidus_agnus
 <details>
   <summary>[ Возможные конкуренты ]</summary>
 
-1.CatWar: Устаревший интерфейс, неинтересная система прокачки, отсутствие уникальных возможностей для создания персонажа.
-2.CatLIFE: Больше форум, чем игра, излишняя зацикленность на каноне, ограниченный игровой процесс.
-3.Wild cats: Неудобный интерфейс, сложная система прокачки, закрытые фракции без возможности вступления.
+1. CatWar: Устаревший интерфейс, неинтересная система прокачки, отсутствие уникальных возможностей для создания персонажа.
+2. CatLIFE: Больше форум, чем игра, излишняя зацикленность на каноне, ограниченный игровой процесс.
+3. Wild cats: Неудобный интерфейс, сложная система прокачки, закрытые фракции без возможности вступления.
 </details>
 
 <details>
   <summary>[ Инструменты разработки, БД ]</summary>
 
-Язык программирования: Java.
-База данных: Firebase Realtime Database
+- Язык программирования: Java.
+- База данных: Firebase Realtime Database
 </details>
 
 <details>
@@ -86,4 +87,4 @@ Tg: @timidus_agnus
 </details>
 
 <details>
-  <summary>**[ Риски ]**</summary>
+  <summary>[ Риски ]</summary>
